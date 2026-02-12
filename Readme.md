@@ -15,7 +15,6 @@ DFANet is a semi-supervised domain adaptation framework designed for dense insta
 - **Mean Teacher Architecture**: Leveraging consistency regularization for label efficiency.
 
 ![Framework Architecture](docs/framework.png)
-*(Note: Please upload your Fig. 2 to a `docs` folder or use an image hosting link)*
 
 ## 🛠️ Installation
 
