@@ -14,7 +14,7 @@ DFANet is a semi-supervised domain adaptation framework designed for dense insta
 - **Dual-Focus Dice Loss (DFDL)**: An asymmetric boundary-aware loss to resolve crown adhesion in dense canopies.
 - **Mean Teacher Architecture**: Leveraging consistency regularization for label efficiency.
 
-![Framework Architecture](docs/framework.png)
+![Framework Architecture](docs/Framework.png)
 
 ## 🛠️ Installation
 
